@@ -1,8 +1,15 @@
 body {
     font-family: Arial, sans-serif;
+    
     margin: 40px;
     padding: 30px;
-    background-color:white;
-    color: black;
+    background-color:black;
+    color:white;
      cursor: pointer;
+}
+#hello{
+    color:yellow;
+}
+.high{
+    color:green;
 }
